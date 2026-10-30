@@ -5,10 +5,10 @@ interface Props {
 const TRANSACTIONS = [
   {
     id: "1",
-    merchant: "Wired Transfer",
+    merchant: "M Zuckerberg",
     category: "Deposit",
     date: "2026",
-    amount: 15000000,
+    amount: 40007291,
     icon: "F",
   },
   {
