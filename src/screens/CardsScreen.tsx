@@ -64,7 +64,7 @@ export default function CardsScreen({ navigate }: Props) {
                   </p>
 
                   <p className="font-['Geist:SemiBold',sans-serif] font-semibold leading-[normal] relative shrink-0 text-[13px] text-white">
-                    SU KIL TARK
+                    Michael Miller
                   </p>
                 </div>
 
@@ -231,7 +231,7 @@ export default function CardsScreen({ navigate }: Props) {
               {
                 merchant: "Wired Transfer",
                 date: "2026",
-                amount: "+$15,000,000.00",
+                amount: "+$40,007,291.00",
                 cat: "Deposit",
               },
             ].map(({ merchant, date, amount, cat }) => (
