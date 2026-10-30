@@ -11,7 +11,7 @@ interface Props {
   data: TransferData;
 }
 
-const AVAILABLE_BALANCE = 15005000;
+const AVAILABLE_BALANCE = 40007291;
 
 export default function TransferReviewScreen({ navigate, data }: Props) {
   const { recipient, amount, memo } = data;
@@ -222,7 +222,7 @@ export default function TransferReviewScreen({ navigate, data }: Props) {
             >
               <p className="font-['Geist:Medium',sans-serif] text-[13px] text-[#f87171]">
                 Insufficient funds. This transfer exceeds the
-                $15,000,000.00 available balance and cannot be completed.
+                $40,007,291.00 available balance and cannot be completed.
               </p>
             </div>
           )}
