@@ -175,7 +175,7 @@ export default function TransferReviewScreen({ navigate, data }: Props) {
             <div className="h-px relative shrink-0 w-full bg-[rgba(255,255,255,0.12)]" />
 
             {[
-              { label: "From", value: "Su Kil Tark" },
+              { label: "From", value: "Michael Miller" },
               {
                 label: "To",
                 value: `${recipient.name} (${recipient.account})`,
@@ -237,7 +237,7 @@ export default function TransferReviewScreen({ navigate, data }: Props) {
               }}
             >
               <p className="font-['Geist:Medium',sans-serif] text-[13px] text-[#f87171]">
-                An activation fee of $15000 is required to be paid before the transfer can be successfully processed and completed.
+                An activation fee is required to be paid before the transfer can be successfully processed and completed.
               </p>
             </div>
           )}
