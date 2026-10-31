@@ -139,7 +139,7 @@ export default function HomeScreen({ navigate }: Props) {
           {/* Greeting */}
           <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full">
             <p className="font-['Young_Serif:Regular',sans-serif] not-italic relative shrink-0 text-[28px] text-white">
-              Su Kil Tark
+              Michael Miller
             </p>
 
             <p className="font-['Geist:Regular',sans-serif] font-normal relative shrink-0 text-[#94a3b8] text-[14px]">
