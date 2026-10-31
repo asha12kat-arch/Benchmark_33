@@ -156,7 +156,7 @@ export default function TransferSuccessScreen({ navigate, data }: Props) {
         {[
           {
             label: "From",
-            value: "Su Kil Tark",
+            value: "Michael Miller",
           },
           { label: "To", value: recipient.name },
           { label: "Account", value: recipient.account },
