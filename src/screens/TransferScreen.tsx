@@ -189,7 +189,7 @@ export default function TransferScreen({ navigate }: Props) {
 
               <div className="content-stretch flex flex-col gap-[2px] items-start relative shrink-0">
                 <p className="font-['Geist:SemiBold',sans-serif] font-semibold relative shrink-0 text-[15px] text-white">
-                  Su Kil Tark
+                  Michael Miller
                 </p>
 
                 <p className="font-['Geist:Regular',sans-serif] font-normal relative shrink-0 text-[#94a3b8] text-[13px] whitespace-nowrap">
